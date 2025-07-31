@@ -51,6 +51,9 @@ Set your Astra DB credentials:
 python
 Copy
 Edit
+
+<img width="265" height="258" alt="image" src="https://github.com/user-attachments/assets/088409b3-c1a4-4639-820b-1a54f4f0983d" />
+
 ASTRA_DB_APPLICATION_TOKEN = "your_token"
 ASTRA_DB_ID = "your_db_id"
 Run all notebook cells
