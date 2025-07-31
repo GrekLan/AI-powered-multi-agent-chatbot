@@ -1,0 +1,12 @@
+arxiv
+astrapy
+cassio
+chromadb
+langchain
+langchain-groq
+langchain_community
+langchain_huggingface
+langchainhub
+langgraph
+tiktoken
+wikipedia
